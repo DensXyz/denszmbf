@@ -20,7 +20,7 @@ git clone https://github.com/DensXyz/denszmbf
 #### CARA MENJALANKAN SCRIPT:
  sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
  ```
-cd zmbf
+cd denszmbf
 git pull
 python zmbf.py
 ```
